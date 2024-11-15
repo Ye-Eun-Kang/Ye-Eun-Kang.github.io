@@ -9,29 +9,29 @@ navbar_entries:
     url: Contact Us
 
 project_entries:
-  - title: Project 1
+  - title: TCC803x
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: TCC805x
     url: overview-post
     desc: Projects are shown in card layout
 
-  - title: Project 3
+  - title: TCC807x
     url: overview-post
     desc: You can control visibility from _config.yml file
 
-  - title: Project 4
+  - title: TCN100x
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
-  - title: Project 5
+  - title: TCCxxxx
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: WIP
 
-  - title: Project 6
+  - title: TCC809x
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
